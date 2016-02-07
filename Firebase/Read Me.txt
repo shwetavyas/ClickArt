@@ -1,0 +1,8 @@
+1. Chatroom address:
+https://dazzling-heat-5686.firebaseio.com/
+
+2. Facebook Authorization in Firebase address:
+https://dazzling-heat-5686.firebaseio.com/?page=Auth
+
+URL : http://127.0.0.1:8080/
+commond http-server
